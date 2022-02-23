@@ -1,0 +1,12 @@
+.boxContainer{
+    height: 100px;
+    width: 100px;
+    border: 1px solid blue;
+    position: absolute;
+    /* top: 0px;
+    left: 0px; */
+    background: white;
+    text-align: center;
+    vertical-align: middle;
+
+}

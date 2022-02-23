@@ -1,0 +1,22 @@
+.pd10{
+    padding:10px
+    }
+    .navDisplay{
+    
+    display:flex;
+    flex-direction:row;
+    
+    }
+    .marLeftAuto{
+    margin-left: auto;
+    font-family: fantasy;
+    }
+    .boxContainer{
+    display: flex;
+    flex-wrap: wrap; 
+    position:relative;
+    border: 1px solid black;
+    width: 95vw;
+    height: 80vh;
+    background-color: aquamarine;
+    }
